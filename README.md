@@ -1,6 +1,3 @@
-# Next.js Creative Portfolio: Build Amazing Portfolio Website with Next.js, Three.js, and Tailwind CSS 🔥
-
----
 
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
